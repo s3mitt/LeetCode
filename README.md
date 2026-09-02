@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/s3mitt/LeetCode/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1873-calculate-special-bonus](https://github.com/s3mitt/LeetCode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
