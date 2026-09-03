@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/s3mitt/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/s3mitt/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [3875-construct-uniform-parity-array-i](https://github.com/s3mitt/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -22,14 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/s3mitt/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/s3mitt/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/s3mitt/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -39,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1873-calculate-special-bonus](https://github.com/s3mitt/LeetCode/tree/master/1873-calculate-special-bonus) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
