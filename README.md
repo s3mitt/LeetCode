@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/s3mitt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/s3mitt/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/s3mitt/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1678-goal-parser-interpretation](https://github.com/s3mitt/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/s3mitt/LeetCode/tree/master/1816-truncate-sentence) |
 ## Array
 |  |
