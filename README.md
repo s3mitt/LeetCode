@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/s3mitt/LeetCode/tree/master/0994-rotting-oranges) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/s3mitt/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/s3mitt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/s3mitt/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/s3mitt/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/s3mitt/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/s3mitt/LeetCode/tree/master/0994-rotting-oranges) |
+| [1672-richest-customer-wealth](https://github.com/s3mitt/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
