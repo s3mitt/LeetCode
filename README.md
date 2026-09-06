@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/s3mitt/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0115-distinct-subsequences](https://github.com/s3mitt/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -95,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/s3mitt/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/s3mitt/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
