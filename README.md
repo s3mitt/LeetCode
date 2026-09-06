@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/s3mitt/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [2235-add-two-integers](https://github.com/s3mitt/LeetCode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/s3mitt/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
