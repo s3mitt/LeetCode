@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/s3mitt/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/s3mitt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0709-to-lower-case](https://github.com/s3mitt/LeetCode/tree/master/0709-to-lower-case) |
 ## Array
 |  |
 | ------- |
