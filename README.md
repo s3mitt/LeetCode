@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/s3mitt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/s3mitt/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3834-merge-adjacent-equal-elements](https://github.com/s3mitt/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/s3mitt/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/s3mitt/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -153,8 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
+| [3834-merge-adjacent-equal-elements](https://github.com/s3mitt/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/s3mitt/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/s3mitt/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
