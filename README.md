@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/s3mitt/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/s3mitt/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/s3mitt/LeetCode/tree/master/1816-truncate-sentence) |
+| [3110-score-of-a-string](https://github.com/s3mitt/LeetCode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
