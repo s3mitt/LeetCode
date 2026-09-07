@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/s3mitt/LeetCode/tree/master/0057-insert-interval) |
+| [0135-candy](https://github.com/s3mitt/LeetCode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/s3mitt/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/s3mitt/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/s3mitt/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
