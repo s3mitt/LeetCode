@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s3mitt/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/s3mitt/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/s3mitt/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/s3mitt/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/s3mitt/LeetCode/tree/master/2469-convert-the-temperature) |
