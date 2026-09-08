@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/s3mitt/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/s3mitt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/s3mitt/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/s3mitt/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/s3mitt/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/s3mitt/LeetCode/tree/master/1816-truncate-sentence) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/s3mitt/LeetCode/tree/master/0135-candy) |
+## Counting
+|  |
+| ------- |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/s3mitt/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 <!---LeetCode Topics End-->
