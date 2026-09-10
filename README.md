@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3033-modify-the-matrix](https://github.com/s3mitt/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/s3mitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3618-split-array-by-prime-indices](https://github.com/s3mitt/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3834-merge-adjacent-equal-elements](https://github.com/s3mitt/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/s3mitt/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/s3mitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/s3mitt/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/s3mitt/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3618-split-array-by-prime-indices](https://github.com/s3mitt/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3870-count-commas-in-range](https://github.com/s3mitt/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/s3mitt/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/s3mitt/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Enumeration
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/s3mitt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/s3mitt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Quicksort
 |  |
 | ------- |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/s3mitt/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
