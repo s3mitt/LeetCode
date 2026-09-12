@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3033-modify-the-matrix](https://github.com/s3mitt/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/s3mitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-unique-3-digit-even-numbers](https://github.com/s3mitt/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3618-split-array-by-prime-indices](https://github.com/s3mitt/LeetCode/tree/master/3618-split-array-by-prime-indices) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/s3mitt/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/s3mitt/LeetCode/tree/master/0338-counting-bits) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/s3mitt/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Enumeration
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/s3mitt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/s3mitt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/s3mitt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Quicksort
 |  |
