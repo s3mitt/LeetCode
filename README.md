@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/s3mitt/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/s3mitt/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3033-modify-the-matrix](https://github.com/s3mitt/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/s3mitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3238-find-the-number-of-winning-players](https://github.com/s3mitt/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/s3mitt/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/s3mitt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/s3mitt/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3903-smallest-stable-index-i](https://github.com/s3mitt/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/s3mitt/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/s3mitt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/s3mitt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/s3mitt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Quicksort
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/s3mitt/LeetCode/tree/master/0135-candy) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Counting
 |  |
 | ------- |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/s3mitt/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
