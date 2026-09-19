@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/s3mitt/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/s3mitt/LeetCode/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/s3mitt/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/s3mitt/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/s3mitt/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/s3mitt/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/s3mitt/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/s3mitt/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s3mitt/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/s3mitt/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/s3mitt/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/s3mitt/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s3mitt/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s3mitt/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/s3mitt/LeetCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
