@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/s3mitt/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s3mitt/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/s3mitt/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/s3mitt/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s3mitt/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/s3mitt/LeetCode/tree/master/2235-add-two-integers) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/s3mitt/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/s3mitt/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Recursion
 |  |
