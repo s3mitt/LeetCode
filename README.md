@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/s3mitt/LeetCode/tree/master/0031-next-permutation) |
 | [0057-insert-interval](https://github.com/s3mitt/LeetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/s3mitt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/s3mitt/LeetCode/tree/master/0118-pascals-triangle) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/s3mitt/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/s3mitt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/s3mitt/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s3mitt/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
