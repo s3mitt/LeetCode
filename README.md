@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/s3mitt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/s3mitt/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/s3mitt/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/s3mitt/LeetCode/tree/master/0224-basic-calculator) |
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3834-merge-adjacent-equal-elements](https://github.com/s3mitt/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Sorting
 |  |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/s3mitt/LeetCode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
