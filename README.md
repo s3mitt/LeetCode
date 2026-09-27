@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/s3mitt/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/s3mitt/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/s3mitt/LeetCode/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/s3mitt/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/s3mitt/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s3mitt/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/s3mitt/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/s3mitt/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/s3mitt/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s3mitt/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
