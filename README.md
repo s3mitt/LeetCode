@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/s3mitt/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/s3mitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3238-find-the-number-of-winning-players](https://github.com/s3mitt/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-unique-3-digit-even-numbers](https://github.com/s3mitt/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/s3mitt/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/s3mitt/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/s3mitt/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
