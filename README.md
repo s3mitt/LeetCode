@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/s3mitt/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/s3mitt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0556-next-greater-element-iii](https://github.com/s3mitt/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0709-to-lower-case](https://github.com/s3mitt/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/s3mitt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/s3mitt/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/s3mitt/LeetCode/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/s3mitt/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/s3mitt/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s3mitt/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/s3mitt/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/s3mitt/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0556-next-greater-element-iii](https://github.com/s3mitt/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s3mitt/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/s3mitt/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s3mitt/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
