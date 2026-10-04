@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/s3mitt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/s3mitt/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/s3mitt/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/s3mitt/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/s3mitt/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/s3mitt/LeetCode/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/s3mitt/LeetCode/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s3mitt/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s3mitt/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/s3mitt/LeetCode/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s3mitt/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/s3mitt/LeetCode/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s3mitt/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s3mitt/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
