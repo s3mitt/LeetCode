@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/s3mitt/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/s3mitt/LeetCode/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/s3mitt/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/s3mitt/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/s3mitt/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/s3mitt/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/s3mitt/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/s3mitt/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/s3mitt/LeetCode/tree/master/0743-network-delay-time) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/s3mitt/LeetCode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Segment Tree
 |  |
