@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/s3mitt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s3mitt/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s3mitt/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2460-apply-operations-to-an-array](https://github.com/s3mitt/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/s3mitt/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/s3mitt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/s3mitt/LeetCode/tree/master/0743-network-delay-time) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Shortest Path
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/s3mitt/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s3mitt/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/s3mitt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s3mitt/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/s3mitt/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s3mitt/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Counting
