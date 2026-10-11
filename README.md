@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/s3mitt/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/s3mitt/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/s3mitt/LeetCode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/s3mitt/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s3mitt/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/s3mitt/LeetCode/tree/master/1816-truncate-sentence) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/s3mitt/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/s3mitt/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1720-decode-xored-array](https://github.com/s3mitt/LeetCode/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/s3mitt/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/s3mitt/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
