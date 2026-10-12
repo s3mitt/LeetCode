@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/s3mitt/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/s3mitt/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/s3mitt/LeetCode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/s3mitt/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/s3mitt/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/s3mitt/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/s3mitt/LeetCode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/s3mitt/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/s3mitt/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/s3mitt/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [3238-find-the-number-of-winning-players](https://github.com/s3mitt/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/s3mitt/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Bucket Sort
 |  |
 | ------- |
