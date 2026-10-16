@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/s3mitt/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/s3mitt/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/s3mitt/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3033-modify-the-matrix](https://github.com/s3mitt/LeetCode/tree/master/3033-modify-the-matrix) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s3mitt/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2716-minimize-string-length](https://github.com/s3mitt/LeetCode/tree/master/2716-minimize-string-length) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/s3mitt/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/s3mitt/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/s3mitt/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/s3mitt/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/s3mitt/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s3mitt/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
