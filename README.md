@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/s3mitt/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s3mitt/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/s3mitt/LeetCode/tree/master/1816-truncate-sentence) |
+| [2409-count-days-spent-together](https://github.com/s3mitt/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s3mitt/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2716-minimize-string-length](https://github.com/s3mitt/LeetCode/tree/master/2716-minimize-string-length) |
 | [3110-score-of-a-string](https://github.com/s3mitt/LeetCode/tree/master/3110-score-of-a-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/s3mitt/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2169-count-operations-to-obtain-zero](https://github.com/s3mitt/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/s3mitt/LeetCode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/s3mitt/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/s3mitt/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/s3mitt/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/s3mitt/LeetCode/tree/master/2652-sum-multiples) |
