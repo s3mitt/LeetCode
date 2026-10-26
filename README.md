@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/s3mitt/LeetCode/tree/master/0224-basic-calculator) |
+| [0343-integer-break](https://github.com/s3mitt/LeetCode/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/s3mitt/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/s3mitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/s3mitt/LeetCode/tree/master/0507-perfect-number) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/s3mitt/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/s3mitt/LeetCode/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/s3mitt/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/s3mitt/LeetCode/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/s3mitt/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
