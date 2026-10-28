@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/s3mitt/LeetCode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/s3mitt/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/s3mitt/LeetCode/tree/master/0561-array-partition) |
 | [0713-subarray-product-less-than-k](https://github.com/s3mitt/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/s3mitt/LeetCode/tree/master/0733-flood-fill) |
 | [0833-find-and-replace-in-string](https://github.com/s3mitt/LeetCode/tree/master/0833-find-and-replace-in-string) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/s3mitt/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/s3mitt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/s3mitt/LeetCode/tree/master/0436-find-right-interval) |
+| [0561-array-partition](https://github.com/s3mitt/LeetCode/tree/master/0561-array-partition) |
 | [0833-find-and-replace-in-string](https://github.com/s3mitt/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/s3mitt/LeetCode/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/s3mitt/LeetCode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s3mitt/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -568,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/s3mitt/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/s3mitt/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
