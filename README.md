@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/s3mitt/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s3mitt/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2716-minimize-string-length](https://github.com/s3mitt/LeetCode/tree/master/2716-minimize-string-length) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/s3mitt/LeetCode/tree/master/2781-length-of-the-longest-valid-substring) |
 | [3110-score-of-a-string](https://github.com/s3mitt/LeetCode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/s3mitt/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3280-convert-date-to-binary](https://github.com/s3mitt/LeetCode/tree/master/3280-convert-date-to-binary) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/s3mitt/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/s3mitt/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/s3mitt/LeetCode/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/s3mitt/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/s3mitt/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/s3mitt/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/s3mitt/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/s3mitt/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2716-minimize-string-length](https://github.com/s3mitt/LeetCode/tree/master/2716-minimize-string-length) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/s3mitt/LeetCode/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/s3mitt/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/s3mitt/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s3mitt/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/s3mitt/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/s3mitt/LeetCode/tree/master/2781-length-of-the-longest-valid-substring) |
 ## Simulation
 |  |
 | ------- |
