@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/s3mitt/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/s3mitt/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/s3mitt/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3975-filter-occupied-intervals](https://github.com/s3mitt/LeetCode/tree/master/3975-filter-occupied-intervals) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/s3mitt/LeetCode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/s3mitt/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/s3mitt/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/s3mitt/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [3975-filter-occupied-intervals](https://github.com/s3mitt/LeetCode/tree/master/3975-filter-occupied-intervals) |
 ## Quicksort
 |  |
 | ------- |
