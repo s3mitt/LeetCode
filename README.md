@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/s3mitt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/s3mitt/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s3mitt/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/s3mitt/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/s3mitt/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/s3mitt/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/s3mitt/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/s3mitt/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/s3mitt/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s3mitt/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/s3mitt/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/s3mitt/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/s3mitt/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/s3mitt/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
@@ -619,4 +624,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/s3mitt/LeetCode/tree/master/0561-array-partition) |
+## Merge Sort
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
