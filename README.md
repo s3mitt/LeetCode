@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/s3mitt/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/s3mitt/LeetCode/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/s3mitt/LeetCode/tree/master/0994-rotting-oranges) |
+| [1089-duplicate-zeros](https://github.com/s3mitt/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1254-number-of-closed-islands](https://github.com/s3mitt/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s3mitt/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/s3mitt/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/s3mitt/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/s3mitt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0556-next-greater-element-iii](https://github.com/s3mitt/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [1089-duplicate-zeros](https://github.com/s3mitt/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/s3mitt/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s3mitt/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/s3mitt/LeetCode/tree/master/2460-apply-operations-to-an-array) |
