@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/s3mitt/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/s3mitt/LeetCode/tree/master/0547-number-of-provinces) |
+| [0687-longest-univalue-path](https://github.com/s3mitt/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/s3mitt/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/s3mitt/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/s3mitt/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/s3mitt/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/s3mitt/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/s3mitt/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/s3mitt/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/s3mitt/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s3mitt/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/s3mitt/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/s3mitt/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/s3mitt/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/s3mitt/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/s3mitt/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/s3mitt/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s3mitt/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -669,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/s3mitt/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/s3mitt/LeetCode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
