@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/s3mitt/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/s3mitt/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/s3mitt/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/s3mitt/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/s3mitt/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/s3mitt/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/s3mitt/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/s3mitt/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/s3mitt/LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/s3mitt/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
 | ------- |
