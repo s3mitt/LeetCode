@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/s3mitt/LeetCode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-unique-3-digit-even-numbers](https://github.com/s3mitt/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/s3mitt/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/s3mitt/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2747-count-zero-request-servers](https://github.com/s3mitt/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/s3mitt/LeetCode/tree/master/2781-length-of-the-longest-valid-substring) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/s3mitt/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/s3mitt/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/s3mitt/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-merge-adjacent-equal-elements](https://github.com/s3mitt/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Sorting
 |  |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/s3mitt/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/s3mitt/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/s3mitt/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -679,4 +683,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/s3mitt/LeetCode/tree/master/0687-longest-univalue-path) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
