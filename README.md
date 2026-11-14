@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/s3mitt/LeetCode/tree/master/3238-find-the-number-of-winning-players) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/s3mitt/LeetCode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/s3mitt/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/s3mitt/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/s3mitt/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3364-minimum-positive-sum-subarray](https://github.com/s3mitt/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/s3mitt/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/s3mitt/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/s3mitt/LeetCode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/s3mitt/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2747-count-zero-request-servers](https://github.com/s3mitt/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/s3mitt/LeetCode/tree/master/2781-length-of-the-longest-valid-substring) |
+| [3364-minimum-positive-sum-subarray](https://github.com/s3mitt/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/s3mitt/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
