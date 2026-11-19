@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2460-apply-operations-to-an-array](https://github.com/s3mitt/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/s3mitt/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/s3mitt/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/s3mitt/LeetCode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2747-count-zero-request-servers](https://github.com/s3mitt/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/s3mitt/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/s3mitt/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/s3mitt/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/s3mitt/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/s3mitt/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/s3mitt/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/s3mitt/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s3mitt/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/s3mitt/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/s3mitt/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/s3mitt/LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
