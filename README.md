@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s3mitt/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/s3mitt/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/s3mitt/LeetCode/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/s3mitt/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/s3mitt/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s3mitt/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/s3mitt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0556-next-greater-element-iii](https://github.com/s3mitt/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1089-duplicate-zeros](https://github.com/s3mitt/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/s3mitt/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s3mitt/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/s3mitt/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/s3mitt/LeetCode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/s3mitt/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s3mitt/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/s3mitt/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/s3mitt/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/s3mitt/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
@@ -729,4 +733,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Hash Function
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 <!---LeetCode Topics End-->
