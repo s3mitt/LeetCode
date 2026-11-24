@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/s3mitt/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s3mitt/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/s3mitt/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/s3mitt/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/s3mitt/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/s3mitt/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/s3mitt/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/s3mitt/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/s3mitt/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/s3mitt/LeetCode/tree/master/0896-monotonic-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/s3mitt/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/s3mitt/LeetCode/tree/master/0994-rotting-oranges) |
 | [1089-duplicate-zeros](https://github.com/s3mitt/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1254-number-of-closed-islands](https://github.com/s3mitt/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -757,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/s3mitt/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/s3mitt/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
