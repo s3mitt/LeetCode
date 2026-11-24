@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/s3mitt/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/s3mitt/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/s3mitt/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/s3mitt/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/s3mitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/s3mitt/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/s3mitt/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/s3mitt/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/s3mitt/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/s3mitt/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/s3mitt/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/s3mitt/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/s3mitt/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/s3mitt/LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3886-sum-of-sortable-integers](https://github.com/s3mitt/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/s3mitt/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/s3mitt/LeetCode/tree/master/2781-length-of-the-longest-valid-substring) |
 | [3364-minimum-positive-sum-subarray](https://github.com/s3mitt/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/s3mitt/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/s3mitt/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/s3mitt/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/s3mitt/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/s3mitt/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/s3mitt/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3618-split-array-by-prime-indices](https://github.com/s3mitt/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 ## Stack
 |  |
