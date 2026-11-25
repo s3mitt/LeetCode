@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/s3mitt/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/s3mitt/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/s3mitt/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/s3mitt/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/s3mitt/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3975-filter-occupied-intervals](https://github.com/s3mitt/LeetCode/tree/master/3975-filter-occupied-intervals) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/s3mitt/LeetCode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/s3mitt/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/s3mitt/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3934-smallest-unique-subarray](https://github.com/s3mitt/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/s3mitt/LeetCode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Enumeration
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/s3mitt/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3583-count-special-triplets](https://github.com/s3mitt/LeetCode/tree/master/3583-count-special-triplets) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/s3mitt/LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3934-smallest-unique-subarray](https://github.com/s3mitt/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/s3mitt/LeetCode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/s3mitt/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sliding Window
@@ -747,10 +750,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [3934-smallest-unique-subarray](https://github.com/s3mitt/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/s3mitt/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [3934-smallest-unique-subarray](https://github.com/s3mitt/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -763,4 +768,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/s3mitt/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/s3mitt/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
