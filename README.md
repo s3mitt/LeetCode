@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/s3mitt/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/s3mitt/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/s3mitt/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/s3mitt/LeetCode/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3665-twisted-mirror-path-count](https://github.com/s3mitt/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/s3mitt/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/s3mitt/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/s3mitt/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/s3mitt/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3364-minimum-positive-sum-subarray](https://github.com/s3mitt/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/s3mitt/LeetCode/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3903-smallest-stable-index-i](https://github.com/s3mitt/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/s3mitt/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/s3mitt/LeetCode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/s3mitt/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/s3mitt/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/s3mitt/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/s3mitt/LeetCode/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3665-twisted-mirror-path-count](https://github.com/s3mitt/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/s3mitt/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/s3mitt/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/s3mitt/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3583-count-special-triplets](https://github.com/s3mitt/LeetCode/tree/master/3583-count-special-triplets) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/s3mitt/LeetCode/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/s3mitt/LeetCode/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3934-smallest-unique-subarray](https://github.com/s3mitt/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/s3mitt/LeetCode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/s3mitt/LeetCode/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
